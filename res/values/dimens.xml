@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_size">16pt</dimen>
+    <dimen name="version_size">5pt</dimen>
+    <dimen name="version_spacing">3pt</dimen>
+    <dimen name="screen_title_size">8pt</dimen>
+    <dimen name="menu_item_size">12pt</dimen>
+    <dimen name="help_text_size">7pt</dimen>
+    <dimen name="help_text_padding">20px</dimen>
+</resources>

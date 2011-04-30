@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nagios Client</string>
+    <string name="mainTitle">Nagios Client Example</string>
+    <string name="hostStatusSummary">Hosts Summary</string>
+    <string name="servicesStatusSummary">Services Summary</string>
+    <string name="statusSummary">Status Summary</string>
+</resources>
